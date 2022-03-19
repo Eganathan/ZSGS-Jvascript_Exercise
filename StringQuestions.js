@@ -26,6 +26,7 @@ console.log( input.substring(0,5));
 
 //Write a JavaScript function to hide email addresses to protect from unauthorized user. -?
 
+
 //Write a JavaScript function to capitalize the first letter of each word in a string.
 var input = "hi! how are you ?"
 var cap = input.charAt(0).toUpperCase();
